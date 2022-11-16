@@ -17,9 +17,9 @@ export const styles = StyleSheet.create({
     },
     input: {
       width: '80%',
-      borderBottomWidth: 1,
+      borderBottomWidth: 5,
       borderBottomColor: '#9A848F',
-      paddingVertical: 10,
+      paddingVertical: 50,
     }
   
   });

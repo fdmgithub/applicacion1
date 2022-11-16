@@ -3,6 +3,8 @@ import { StyleSheet, Text, View, TextInput, Button, input, FlatList, Modal, Touc
 import { styles } from './styles';
 
 
+
+
 export default function App() {
   const [task, setTask] =useState('');
   const [taskList, setTaskList] = useState([]);
